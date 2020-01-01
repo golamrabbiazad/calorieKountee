@@ -1,0 +1,13 @@
+* {
+	font-family: "Varela Round", sans-serif !important;
+}
+
+div .card-content .card-title{
+    font-size: 2rem;
+    padding-bottom: 2rem;
+}
+
+label {
+    font-size: 1.5rem !important;
+    color: rgb(27, 26, 26);
+}
